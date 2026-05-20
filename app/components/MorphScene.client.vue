@@ -38,7 +38,7 @@ const loadModels = async () => {
   const urls = [
     "/models/chess.stl",
     "/models/dragon.stl",
-    "/models/head.stl",
+    "/models/joker.stl",
     "/models/robot.stl",
     "/models/chimuelo.stl",
   ];
